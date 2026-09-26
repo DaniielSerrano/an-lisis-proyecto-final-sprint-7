@@ -1,6 +1,7 @@
 # Sprint7-final-project
 ## Objetivo 
-En este análisis nuestro objetivo es evaluar el comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica, ConnectaTel. Se trabajo con la información registrada hasta el año 2024, lo cual permitirá analizar el comportamiento del negocio dentro de ese periodo, construir un perfil estadístico de los clientes, detectar comportamientos atípicos y crear segmentos de clientes.
+En este análisis nuestro objetivo es evaluar el comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica, ConnectaTel. Se trabajo con la información registrada hasta el año 2024, lo cual permitirá analizar el comportamiento del negocio dentro de ese periodo, construir un perfil estadístico de los clientes, detectar comportamientos atípicos y crear segmentos de clientes
+## Datasets utilizados
 Para ello trabajarás con tres datasets:
 plans.csv que contiene la información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra, etc.)
 users.csv que contiene información de los clientes (edad, ciudad, fecha de registro, plan, churn, etc.)
